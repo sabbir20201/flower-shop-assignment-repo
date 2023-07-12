@@ -12,6 +12,12 @@
  section {
      margin: 100px 0;
  }
+ .span-tag {
+    color: #E55473;
+    font-family: Lato;
+    font-size: 28px;
+    font-weight: 800;
+}
 
  /* header style start  */
  .header {
@@ -303,12 +309,6 @@ input{
      margin-bottom: 20px;
  }
 
- .footer-span {
-     color: #E55473;
-     font-family: Lato;
-     font-size: 28px;
-     font-weight: 800;
- }
 
  .coder {
      color: rgba(255, 255, 255, 0.40);
